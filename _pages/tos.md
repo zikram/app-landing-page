@@ -1,3 +1,8 @@
+---
+layout: page
+title: Terms and Conditions
+include_in_header: false
+---
 **END USER LICENSE AGREEMENT**
 
   
